@@ -1,7 +1,7 @@
 spring:
   cloud:
     config:
-      uri: http://localhost:8888
+      uri: http://localhost:8988
   application:
     name: api-gateway
 ---
